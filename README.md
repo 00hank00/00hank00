@@ -4,7 +4,7 @@
 # Hey there! 👋 I'm 00hank00 (juanca)
 
 🎯 Full Stack Developer — Bootcamp graduate @ 4Geeks Academy  
-🌱 Currently building cool stuff with React, Flask, Docker & PostgreSQL  
+🌱 Currently building cool stuff with React, Flask, Docker,PostgreSQL,Tailwind...and more 
 📫 Reach me at: [oohankoo@hotmail.com)
 
 ---
