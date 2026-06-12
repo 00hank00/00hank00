@@ -66,11 +66,5 @@
 
 ---
 
-## 🛠️ Currently working on
-- 👨‍💻 **IdeaLink** — A dev collaboration platform  
-- 🧪 Playing with AI APIs & real-time features  
-- 📦 Improving Docker + Flask integration
-
----
 
 ### 🚀 Let’s build something legendary.
